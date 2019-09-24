@@ -15,7 +15,7 @@ A library [provided by Ebakus](https://ebakus.com) for giving access to EbakusDB
 
 ### Truffle Installation
 
-**version 5.0.0**
+**version 1.0.0**
 
 First install truffle via npm using `npm install -g truffle` .
 
@@ -84,7 +84,7 @@ contract Example {
 }
 ```
 
-## Change Log
+## Changelog
 
 ### v1.0.0
 

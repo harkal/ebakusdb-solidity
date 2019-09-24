@@ -1,13 +1,16 @@
 {
-  "package_name": "ebakusdb-solidity",
+  "package_name": "ebakusdb",
   "version": "1.0.0",
   "description": "Library for giving access to EbakusDB",
   "authors": [
-    "Chris Ziogas <chris@ebakus.com>"
+    "Chris Ziogas <chris@ebakus.com>",
+    "Harry Kalogirou <harry@ebakus.com>"
   ],
   "keywords": [
     "ebakus",
-    "db"
+    "solidity",
+    "db",
+    "database"
   ],
   "license": "MIT"
 }

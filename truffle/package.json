@@ -24,7 +24,7 @@
   },
   "homepage": "https://ebakus.com",
   "devDependencies": {
-    "@truffle/hdwallet-provider": "^1.0.14",
-    "truffle": "^5.0.10"
+    "@truffle/hdwallet-provider": "^1.0.33",
+    "truffle": "^5.1.17"
   }
 }
